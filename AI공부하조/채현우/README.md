@@ -1,7 +1,8 @@
+
 # 채현우
 2022 1학기 SAI I팀 1조(AI 공부하조)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hyunwoo0081@gmail.com) [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://github.com/hyunwoo0081) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/hyunwoo0081)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hyunwoo0081@gmail.com) [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@hyunwoo0081) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/hyunwoo0081)
 
 ---
 
@@ -17,6 +18,12 @@
 [3주차 로지스틱 회귀](3주차/answers.md)
 
 [4주차 트리 알고리즘](4주차/answers.md)
+
+[5주차 군집 알고리즘](5주차/answers.md)
+
+[6주차 인공 신경망](6주차/answers.md)
+
+[11주차 합성곱 신경망](11주차/answers.md)
 
 ## 참고
 [ML/DL 정리 Repo](https://github.com/hyunwoo0081/ai_study)
